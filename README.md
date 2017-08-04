@@ -1,4 +1,4 @@
-<img src=¨http://files.empreendemia.com.br.s3-sa-east-1.amazonaws.com/companies/19136/19136713a9fbf814514d30f2cd0e1cfd65a284c4ab26b806/200_be2c387a17.png¨ />
+![alt text](http://files.empreendemia.com.br.s3-sa-east-1.amazonaws.com/companies/19136/19136713a9fbf814514d30f2cd0e1cfd65a284c4ab26b806/200_be2c387a17.png)
 
 # Seleção 3it Consultoria
 
