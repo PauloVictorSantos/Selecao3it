@@ -10,4 +10,4 @@
 <li>E execute o método estático getEmail() da classe Selecao3it;</li>
 </ul>
 
-<h3>Envie seu currículo para o email na classe acima e boa sorte.</h3>
+<h3>Envie seu currículo para o email que esse método irá retornar e boa sorte.</h3>
